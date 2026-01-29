@@ -5,7 +5,7 @@ import java.util.Scanner;
 /*
  Program to create, shuffle and distribute deck of cards
 */
-class DeckOfCards {
+class DeckofCards {
 
     // method to initialize deck
     public static String[] initializeDeck() {
